@@ -1,0 +1,47 @@
+{
+	"coord": {
+		"lon": 137.9167,
+		"lat": 34.75
+	},
+	"weather": [
+		{
+			"id": 500,
+			"main": "Rain",
+			"description": "light rain",
+			"icon": "10d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 299.25,
+		"feels_like": 299.25,
+		"temp_min": 299.25,
+		"temp_max": 299.25,
+		"pressure": 1010,
+		"humidity": 91
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 1.34,
+		"deg": 218,
+		"gust": 1.34
+	},
+	"rain": {
+		"1h": 0.25
+	},
+	"clouds": {
+		"all": 100
+	},
+	"dt": 1656907315,
+	"sys": {
+		"type": 2,
+		"id": 19932,
+		"country": "JP",
+		"sunrise": 1656877180,
+		"sunset": 1656929117
+	},
+	"timezone": 32400,
+	"id": 1863945,
+	"name": "Fukuroi",
+	"cod": 200
+}

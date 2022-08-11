@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=Fukuroi&appid=bcdaa4423568428273e853c7bcc59c79
